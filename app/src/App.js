@@ -11,6 +11,7 @@ export default class App extends Component {
 			<MuiThemeProvider>
 				<div className="App">
 					<FlatButton label="empty button"/>
+					<p>ababa</p>
 				</div>
 			</MuiThemeProvider>
 		);
