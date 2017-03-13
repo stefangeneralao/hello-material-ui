@@ -1,4 +1,3 @@
-This is an empty React app except for:
-	- Material-ui installed.
+This is an empty webapplication for ReactJS with Material-UI and Roboto Font implemented.
 
-To run app in a local server, run "npm start".
+Run command "npm start" to start a local server at port 3000. 
